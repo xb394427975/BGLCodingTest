@@ -1,0 +1,8 @@
+1.Download the project.
+2.Build and Run the project
+3.Test input hard coded in main function.
+4.Expected output should display in console as long as program is run.
+5.Assumption is written in the below
+  name of members is unique.
+  income greater than expense
+  the sum of proportion for each member is 100%
