@@ -1,13 +1,8 @@
 import java.util.*;
-/*Assumption
-name of members is unique.
-income greater than expense
-the sum of proportion for each member is 100%
-*/
 public class CalculationService {
 
     public static void main(String[] args) {
-        List<Membership> memberships = new LinkedList<Membership>();
+        List<Membership> memberships = new LinkedList<>();
         memberships.add(new Membership("Bob", 60));
         memberships.add(new Membership("Lilian", 30));
         memberships.add(new Membership("Rob", 10,true));
